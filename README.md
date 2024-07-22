@@ -1,8 +1,10 @@
 # docker
 Projet Dockerfile
 
-*Notre 1er Dockerfile*
+*Notre 1er Dockerfile
 
-_Apache_
+_Apache
 
-*Proket EZOLA*
+*Projet EZOLA
+
+C'est très simple
